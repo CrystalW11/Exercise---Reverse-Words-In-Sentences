@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "30-Exercise-ReverseWordsInSentence", "30-Exercise-ReverseWordsInSentence.csproj", "{BB8E243A-DCF8-3AB9-4BDB-9F67718C33AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB8E243A-DCF8-3AB9-4BDB-9F67718C33AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB8E243A-DCF8-3AB9-4BDB-9F67718C33AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB8E243A-DCF8-3AB9-4BDB-9F67718C33AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB8E243A-DCF8-3AB9-4BDB-9F67718C33AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FFD8255C-B4D1-4E9F-AFF3-295CA25D8AE4}
+	EndGlobalSection
+EndGlobal

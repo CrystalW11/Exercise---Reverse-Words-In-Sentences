@@ -1,0 +1,15 @@
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\30-Exercise-ReverseWordsInSentence\bin\Debug\net9.0\30-Exercise-ReverseWordsInSentence.exe
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\30-Exercise-ReverseWordsInSentence\bin\Debug\net9.0\30-Exercise-ReverseWordsInSentence.deps.json
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\30-Exercise-ReverseWordsInSentence\bin\Debug\net9.0\30-Exercise-ReverseWordsInSentence.runtimeconfig.json
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\30-Exercise-ReverseWordsInSentence\bin\Debug\net9.0\30-Exercise-ReverseWordsInSentence.dll
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\30-Exercise-ReverseWordsInSentence\bin\Debug\net9.0\30-Exercise-ReverseWordsInSentence.pdb
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\30-Exercise-ReverseWordsInSentence\obj\Debug\net9.0\30-Exercise-ReverseWordsInSentence.GeneratedMSBuildEditorConfig.editorconfig
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\30-Exercise-ReverseWordsInSentence\obj\Debug\net9.0\30-Exercise-ReverseWordsInSentence.AssemblyInfoInputs.cache
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\30-Exercise-ReverseWordsInSentence\obj\Debug\net9.0\30-Exercise-ReverseWordsInSentence.AssemblyInfo.cs
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\30-Exercise-ReverseWordsInSentence\obj\Debug\net9.0\30-Exercise-ReverseWordsInSentence.csproj.CoreCompileInputs.cache
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\30-Exercise-ReverseWordsInSentence\obj\Debug\net9.0\30-Exercise-ReverseWordsInSentence.dll
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\30-Exercise-ReverseWordsInSentence\obj\Debug\net9.0\refint\30-Exercise-ReverseWordsInSentence.dll
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\30-Exercise-ReverseWordsInSentence\obj\Debug\net9.0\30-Exercise-ReverseWordsInSentence.pdb
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\30-Exercise-ReverseWordsInSentence\obj\Debug\net9.0\30-Exercise-ReverseWordsInSentence.genruntimeconfig.cache
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\30-Exercise-ReverseWordsInSentence\obj\Debug\net9.0\ref\30-Exercise-ReverseWordsInSentence.dll
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\30-Exercise-ReverseWordsInSentence\obj\Debug\net9.0\30-Exercise-ReverseWordsInSentence.sourcelink.json
